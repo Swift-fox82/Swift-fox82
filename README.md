@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swift-fox82)](https://github.com/Swift-fox82)
 
 
-https://discord.c99.nl/widget/theme-2/827972540009283654.png
+
