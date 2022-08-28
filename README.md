@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Swift-fox82&theme=highcontrast&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swift-fox82)](https://github.com/Swift-fox82)
-<a href="https://github.com/OldModz95-YTB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swift-fox82B&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
-</a>
+
 
 <img src="https://discord.c99.nl/widget/theme-2/827972540009283654.png" >
 
