@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 <img src="https://discord.c99.nl/widget/theme-2/827972540009283654.png" >
 
 
-
-
-![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/github-user-contribution.svg)
 <div align="center">
